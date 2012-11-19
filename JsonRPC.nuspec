@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$-beta</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>http://code.rreverser.com/jsonrpc</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First public release of my Portable Class Library for JSON-RPC client interaction.</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>json rpc api client http portable</tags>
+  </metadata>
+</package>
