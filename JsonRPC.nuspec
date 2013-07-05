@@ -2,11 +2,11 @@
 <package>
   <metadata>
     <id>$id$</id>
-    <version>$version$-beta</version>
+    <version>$version$</version>
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <projectUrl>http://code.rreverser.com/jsonrpc</projectUrl>
+    <projectUrl>https://github.com/RReverser/JsonRPC</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes>First public release of my Portable Class Library for JSON-RPC client interaction.</releaseNotes>
